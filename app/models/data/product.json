@@ -1,0 +1,67 @@
+[
+    {
+        "_id": "5cab09845fc67e2ab8c44f92",
+        "name": "Trà OLong",
+        "describe": "Là thức uống được lấy cảm hứng từ trái Vải - thức quả tròn đầy, quen thuộc trong cuộc sống người Việt - kết hợp cùng Trà Oolong làm từ những lá trà tươi hảo hạng.",
+        "product_type_id": "5cab09ce5fc67e2ab8c44f10",
+        "price": 15000,
+        "image": "/images/tea.jpg"
+    },
+    {
+        "_id": "5cab09845fc67e2ab8c44f93",
+        "name": "Tiramisu Chocolate",
+        "describe": "A coffee-flavoured Italian dessert. It is made of ladyfingers (savoiardi) dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavoured with cocoa.",
+        "product_type_id": "5cab09ce5fc67e2ab8c44f11",
+        "price": 45000,
+        "image": "/images/tiramisu.jpeg"
+    },
+    {
+        "_id": "5cab09845fc67e2ab8c44f94",
+        "name": "Capuchino Caramel",
+        "describe": "An espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam.",
+        "product_type_id": "5cab09ce5fc67e2ab8c44f12",
+        "price": 45000,
+        "image": "/images/menu-1.jpg"
+    },
+    {
+        "_id": "5cd14204a6cc1d3ae4cdc184",
+        "name": "Tiramisu Ocean",
+        "describe": "The recipe has been adapted into many varieties of cakes and other desserts. Its origins are often disputed among Italian regions of Veneto",
+        "product_type_id": "5cab09ce5fc67e2ab8c44f11",
+        "price": 90000,
+        "image": "/images/cake2.jpg"
+    },
+    {
+        "_id" : "5cd143a3f3d47634fc7caf24",
+        "name" : "Cold Brew Milk ",
+        "describe" : "Light sour taste of yellow orange. The rich aroma of lemongrass. Harmoniously blend in a fresh, cool Brew Coffee.",
+        "product_type_id" :"5cab09ce5fc67e2ab8c44f12",
+        "price" : 49000,
+        "image" : "/images/menu-3.jpg"
+    },
+    {
+        "_id" :"5cd143f0f3d47634fc7caf26",
+        "name" : "Leaf Choco Cheese",
+        "describe" : "Each coffee bean has its own flavor without mixing: natural sour taste, chocolate flavor, pine wood flavor ...",
+        "product_type_id" :"5cab09ce5fc67e2ab8c44f10",
+        "price" : 90000,
+        "image" : "/images/cake3.jpg"
+    },
+    {
+        "_id" :"5cd14411f3d47634fc7caf28",
+        "name" : "Capuchino Milk",
+        "describe" : "Each coffee bean has its own flavor without mixing: natural sour taste, chocolate flavor, pine wood flavor ",
+        "product_type_id" : "5cab09ce5fc67e2ab8c44f12",
+        "price" : 35000,
+        "image" : "/images/menu-4.jpg"
+    },
+    {
+        "_id" : "5cd145c9482b812f7419bd9b",
+        "name" : "StrawBerry Cake",
+        "describe" : "Strawberry Cake is made with real strawberries in the cake as well as the frosting. If you are a fan of strawberries, this is a must try!",
+        "product_type_id" : "5cab09ce5fc67e2ab8c44f11",
+        "price" : 90000,
+        "image" : "/images/recent-post-4.jpg"
+    }
+
+]

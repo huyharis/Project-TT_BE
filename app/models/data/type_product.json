@@ -1,0 +1,17 @@
+[
+    {
+        "_id":"5cab09ce5fc67e2ab8c44f10",
+        "type_product": "Tea",
+        "products":["5cab09845fc67e2ab8c44f92"]
+    },
+    {
+        "_id":"5cab09ce5fc67e2ab8c44f11",
+        "type_product": "Cake",
+        "products":["5cab09845fc67e2ab8c44f93","5cd14204a6cc1d3ae4cdc184","5cd143f0f3d47634fc7caf26","5cd145c9482b812f7419bd9b"]
+    },
+    {
+        "_id":"5cab09ce5fc67e2ab8c44f12",
+        "type_product": "Coffee",
+        "products":["5cab09845fc67e2ab8c44f94","5cd143a3f3d47634fc7caf24","5cab09ce5fc67e2ab8c44f12"]
+    }
+]
